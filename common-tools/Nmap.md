@@ -5,3 +5,5 @@ Nmap allows you to scan your network and discover not only everything connected 
 
 ### Usage Exmaple:
 sudo nmap -sV {IP Address}
+
+-sV is a service detection flag used to determine the name and description of the identified services. 
