@@ -1,2 +1,6 @@
 # FTP
 The File Transfer Protocol (FTP) is a standard communication protocol used to transfercomputer files from a server to a client on a computer network. FTP is built on aclient–server model architecture using separate control and data connections betweenthe client and the server. FTP users may authenticate themselves with a clear-textsign-in protocol, generally in the form of a username and password. However, they canconnect anonymously if the server is configured to allow it. For secure transmissionthat protects the username and password and encrypts the content, FTP is often securedwith SSL/TLS (FTPS) or replaced with SSH File Transfer Protocol (SFTP).
+
+# SMB (Server Message Block)
+This communication protocol provides shared access to files, printers, and serial ports between endpoints on a network.
+In computer networking, Server Message Block, one version of which was also known as Common Internet File System, is a communication protocol for providing shared access to files and printers between nodes on a network. It also provides an authenticated inter-process communication mechanism.
