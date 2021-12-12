@@ -38,3 +38,11 @@ Usage Example: get {filename}
 An SMB client is the device that accesses resources on an SMB server. For example, within a corporate network, the user PCs that access a shared drive are SMB clients.
 Usage Example: smbclient -L {target_ip} && smbclient \\\\{target_ip}\\{accountname}
 -L is used to list.
+
+# xfreerdp
+FreeRDP is a free implementation of the Remote Desktop Protocol (RDP), released under the Apache license. Enjoy the freedom of using your software wherever you want, the way you want it, in a world where interoperability can finally liberate your computing experience.
+Usage Example: xfreerdp /v:{target_ip} /cert:ignore /u:Administrator
+
+# gobuster
+Gobuster v3.1.0. Gobuster is a tool used to brute-force: URIs (directories and files) in web sites. DNS subdomains (with wildcard support).
+Usage Example: gobuster -h
