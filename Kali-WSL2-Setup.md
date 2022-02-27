@@ -267,4 +267,18 @@ or consult the manpage via:
 man kex
 ```
 
+### Known issue:
+- "run-detectors: unable to find an interpreter:"
+Solution:
+```bash
+sudo update-binfmts --disable cli
+```
+Only do if you get the error.
+
+Alternately, open Powershell and run:
+```console
+wsl --shutdown
+```
+has to be Powershell for unknown reasons.
+
   ENJOY, Dark Lepus!!
