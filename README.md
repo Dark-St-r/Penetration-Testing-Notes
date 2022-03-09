@@ -1,14 +1,14 @@
-# Penetration-Testing-Notes
-### This repository stores the data and information I've learned so far about various aspects of penetration testing .
+# Knowledge Check Report
 
-The notes and information within this repository is things that i find useful to remember and store online. Any further information was either stored offline or has not been learnt or added as of yet to the repository.
+This is an indept look at the process of which I took in enumerating the **Knowledge Check** Section of the **Getting Started** module on the [**HackTheBox**](https://academy.hackthebox.com) website.
 
-Date of Creation: 9/12/2021.
+This covers:
 
-Initial Creator: Dark-St-r.
+* Logs taken during initial scans with nmap
+* Commands used
+* Logs for Gobuster
+* Scripts used
+* Files and folders searched through
+* Various acquired data
 
-Information source: HackTheBox && Google.
-
-Software used in learning process: Parrot OS, Kali Linux, Windows 11 && Oracle Viirtual Box.
-
-Reason for learning: As a Student of AntiguaRecon.
+**You can start your journey through my notes @\[\[Steps | Steps to Perfection]].**
