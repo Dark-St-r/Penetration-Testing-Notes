@@ -89,7 +89,7 @@ We then know that we are looking for user.txt, and we know that it is located in
 cat user.txt
 ```
 
-> This reveals to us the content of user.txt which is `7002d65b149b0a4d19132a66feed21d8`.
+> This reveals to us the content of user.txt which is _<mark style="color:green;">`7002d65b149b0a4d19132a66feed21d8`</mark>_.
 
 ## Elevating Privileges
 
@@ -110,6 +110,6 @@ CMD="/bin/sh"
 php -r 'system("$CMD");'
 ```
 
-We then notice no change so we run `whoami` and see that we are user **root**. Yes!!, we exclaim as we can now proceed to check out the **/root** directory. We proceed to go to the directory using `cd /root`, and we then do `ls -al` which reveals to us that we have found **root.txt**. We wasted no time to run `cat root.txt` and get the contents: `f1fba6e9f71efb2630e6e34da6387842`.
+We then notice no change so we run `whoami` and see that we are user **root**. Yes!!, we exclaim as we can now proceed to check out the **/root** directory. We proceed to go to the directory using `cd /root`, and we then do `ls -al` which reveals to us that we have found **root.txt**. We wasted no time to run `cat root.txt` and get the contents: _<mark style="color:green;">`f1fba6e9f71efb2630e6e34da6387842`</mark>_.
 
 Now we have completed **Knowledge Check!!**.
