@@ -23,9 +23,7 @@ Useful Tips
 * **-sV**: is used to output verbose logging.
 * **–open**: is used to refer to open ports.
 * **-oA**: is used to output logs into 3 different output formats. It is followed by the name output file name.
-* Finally the IP is added after the proceeding parameters. This data can be checked at:
-
-{% embed url="https://app.gitbook.com/s/Iuz7oRm7DTNzq01mjEXR/~/changes/OsZURH78rF7ome2DQigZ/nmap_initial_results" %}
+* Finally the IP is added after the proceeding parameters. This data can be checked at [nmap\_initial\_results.md](nmap\_initial\_results.md "mention")
 
 We saw from the material that port **22** is running **SSH** and port **80** is running **HTTP**. noticing this, we decide to proceed by running a next nmap script to enumerate the http connection.
 
