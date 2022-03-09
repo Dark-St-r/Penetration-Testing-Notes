@@ -11,4 +11,4 @@ This covers:
 * Files and folders searched through
 * Various acquired data
 
-**You can start your journey through my notes @\[\[Steps | Steps to Perfection]].**
+**You can start your journey through my notes in**[steps.md](steps.md "mention")**.**
